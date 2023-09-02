@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Solipsus
-- 👀 I’m interested in ... coding and vector art
+- 👀 I’m interested in ... coding and shader art
 - 🌱 I’m currently learning ... the basics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... my own projects.
+- 📫 How to reach me ... don't
 
 <!---
 Solipsus/Solipsus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
